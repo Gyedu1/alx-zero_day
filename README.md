@@ -1,1 +1,1 @@
-My first readme
+Trial and error
